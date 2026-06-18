@@ -1,6 +1,6 @@
 # TECHNATION AI Equity Data Challenge — Team Solo_Data
 
-<img src="assets/top5_badge.png" alt="TECHNATION AI Equity Data Challenge - Top 5 Badge" width="250"/>
+[📄 View Top 5 Badge Certificate](2025-11-26_ai-equity-data-challenge-top-5-en.pdf)
 
 **Result: Top 5 Finalist** out of 86 teams (200+ post-secondary students) nationwide — TECHNATION AI Equity Data Student Challenge, Nov 2025
 
