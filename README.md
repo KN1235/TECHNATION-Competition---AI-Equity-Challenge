@@ -17,7 +17,7 @@ Participants were asked to analyze real labour market and demographic data, iden
 
 ## What we did
 
-Built and cleaned multi-source datasets using Python (pandas), performed data mapping and transformation to engineer structured data integration pipelines, and conducted statistical analysis on gender and racial representation across 30+ occupations and 20+ industries. Produced data visualizations that contributed to an 80% evaluation score across both Phase 1 and Phase 2 judging rounds. Mentored by a Senior Policy Analyst at the Ontario Ministry of Education.
+Built and cleaned multi-source datasets using Python (pandas), performed data mapping and transformation to engineer structured data integration pipelines, and conducted statistical analysis on gender and racial representation across 30+ occupations and 20+ industries. Produced data visualizations and present with dashboard that contributed to an 80% evaluation score across both Phase 1 and Phase 2 judging rounds. Mentored by a Senior Policy Analyst at the Ontario Ministry of Education.
 
 ## What's in this repo
 
@@ -43,4 +43,4 @@ Raw source CSVs are not included in this repo. If you want to rerun the notebook
 
 ## Notes
 
-This was a team submission developed collaboratively under team name "Solo_Data" for TECHNATION's national program. The analysis and policy recommendations reflect our team's interpretation of the data within the competition's scope and timeline, not an official government or TECHNATION position.
+This was a team submission developed collaboratively under team name "Solo_Data" for TECHNATION's national program (September 2025 - November 2025). The analysis and policy recommendations reflect our team's interpretation of the data within the competition's scope and timeline, not an official government or TECHNATION documentation. 
